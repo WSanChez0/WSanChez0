@@ -15,7 +15,7 @@
 ---
 
 <!-- Descripción profesional -->
-" 👨‍💻 Software Developer | Backend & Web Development
+" 👨‍💻 Computer Science Student | Backend & Web Development
 
 I combine a solid foundation in software engineering and QA testing with a creative approach to full-stack development. My hands-on experience building web applications with Python, C++ and MySQL allows me to design scalable backend services and intuitive interfaces, while my interest in game development and technical problem-solving drives me to write clean, efficient code."
 
