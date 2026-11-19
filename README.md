@@ -4,7 +4,7 @@
 </div>
 
 <!-- Título principal y subtítulo animado -->
-<h3 align="center">Willian Sanchez | Software Developer 🚀 👋</h3>
+<h3 align="center">Willian Sanchez | Software Developer 👋</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
